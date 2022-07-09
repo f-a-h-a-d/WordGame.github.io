@@ -1,0 +1,27 @@
+body{
+	background-image: url('./images/ScoreDisplay.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#myScore{
+	
+	position:fixed;
+    left:40%;
+    top:35%;
+    transform: translate(-50%,-50%);
+    margin: auto;
+}
+#myScore p{
+	font-size: 50px;
+	color: white;
+}
+
+#gameButton{
+	position: fixed;
+	left: 30%;
+	top: 50%;
+
+}

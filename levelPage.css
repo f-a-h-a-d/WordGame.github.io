@@ -1,0 +1,37 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600&display=swap');
+
+body{
+ 	
+	background-image: url('./images/levelpageBackground.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+	
+}
+#text{
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	font-size: 40px;
+	background-color: orange;
+}
+ul{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 100%;
+
+}
+li{
+	margin: 20px;
+	list-style-type: none;
+}
+div{
+	
+	position: fixed;
+	background-color: white;
+	height:100%;
+	width: 35%;
+}
