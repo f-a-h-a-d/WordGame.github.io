@@ -4,11 +4,11 @@
 
 body{
  	
-	background-image: url('./images/levelpageBackground.jpg');
+	background-image: url('./images/LevelpageBackground.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    	background-position: center center;
+    	background-attachment: fixed;
 	
 }
 #text{
